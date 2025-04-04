@@ -54,15 +54,23 @@ All datasets were retrieved from **Kaggle**, covering:
 ## 🔍 Major Insights
 
 - **Soil pH Impact**: Lower pH values are associated with reduced crop productivity.
+- ![Screenshot (431)](https://github.com/user-attachments/assets/9d5951f1-9720-499b-86fc-5d93fc37f772)
+
 - **Crop Diversity Leaders**: Uttar Pradesh (12,600 crop records) and Madhya Pradesh (9,300) show high crop variety; Goa has the least (100), influenced by local climate.
+- ![Screenshot (433)](https://github.com/user-attachments/assets/14fe4b45-7cc5-4ba9-b5e9-ff095b9e41b3)
+
 - **Production Breakdown**:  
   - **Rabi crops**: 44.2% of total output  
   - **Kharif crops**: 38.81%  
   - **Summer crops**: 2.9% (limited due to heat and water shortages)
+  - ![Screenshot (430)](https://github.com/user-attachments/assets/ac4f89c7-5ee6-43ad-b910-f9e51d4ca816)
+
 - **Top Producing States**:  
   - Uttar Pradesh: 0.70 billion tons  
   - West Bengal: 0.44 billion tons  
 - **Lowest**: Chandigarh, with only 63 tons.
+- 
+![Screenshot (433)](https://github.com/user-attachments/assets/c8e51cd8-7b2f-491a-9866-4989e560937c)
 
 ---
 
@@ -76,7 +84,9 @@ All datasets were retrieved from **Kaggle**, covering:
 
 - **Knowledge Sharing**: Facilitating collaboration between high- and low-producing states to implement best agricultural practices and maximize output.
 
----
+##  DASHBOARD OVERVIEW
+![Screenshot (429)](https://github.com/user-attachments/assets/cce23028-5b41-4908-b53a-53d56fc6642f)
+
 
 ## 📖 How to Use This Report
 
