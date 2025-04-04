@@ -68,10 +68,13 @@ All datasets were retrieved from **Kaggle**, covering:
 
 ## ✅ Recommendations
 
-- **Adjust Soil Conditions**: Enhancing pH balance could significantly improve yield, especially for sensitive crops.
-- **Tailor Crops to Environment**: Match crops to specific state soil and weather conditions for better output.
-- **Promote Climate-Smart Farming**: Encourage sustainable practices and crop variety to adapt to environmental shifts.
-- **Encourage Inter-State Collaboration**: Share best practices between high- and low-performing states to level up national productivity.
+- **Soil Optimization**: Improving soil pH levels can enhance yields in crops that underperform due to acidic or alkaline soil conditions.
+
+- **Crop Suitability Research**: Identifying suitable crops for each state based on soil and climatic conditions can optimize production.
+
+- **Climate-Smart Agriculture**: Encouraging sustainable farming methods and crop diversification can help mitigate regional climatic variations.
+
+- **Knowledge Sharing**: Facilitating collaboration between high- and low-producing states to implement best agricultural practices and maximize output.
 
 ---
 
